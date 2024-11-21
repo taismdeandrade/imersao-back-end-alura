@@ -4,22 +4,11 @@ Imersão com 5 aulas para mergulhar em desenvolvimento back-end, criar um projet
 
  #### Aula 1 - Desvendando APIs e Servidores:
 
-<<<<<<< HEAD
 - Conhecer o projeto de blog de fotos;
  - Instalar o Node.js;
  - Aprender o que é um servidor;
  - Criar e subir um servidor;
  - Criar a sua API Key do Gemini.
-=======
-> #### Aula 2 - Criando e Estruturando sua Primeira API com GET e Banco de Dados:
->
-> - Criar uma base de dados;
-> - Criar um mock com ajuda do Gemini;
-> - Armazenar os seus dados;
-> - Adicionar rotas;
-> - Utilizar o bancos de dados MongoDB;
-> - Preparar o MongoDB para subir o recurso na Nuvem.
->>>>>>> 57972328041a086719b3e66055c8fca5db9c03b9
 
  #### Aula 2 - Criando e Estruturando sua Primeira API com GET e Banco de Dados:
 

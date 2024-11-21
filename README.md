@@ -12,7 +12,7 @@ Imersão com 5 aulas para mergulhar em desenvolvimento back-end, criar um projet
 
 > #### Aula 2 - Criando e Estruturando sua Primeira API com GET e Banco de Dados:
 >
-> -     Criar uma base de dados;
+> - Criar uma base de dados;
 > - Criar um mock com ajuda do Gemini;
 > - Armazenar os seus dados;
 > - Adicionar rotas;

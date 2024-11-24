@@ -4,7 +4,7 @@ Imersão com 5 aulas para mergulhar em desenvolvimento back-end, criar um projet
 
  #### Aula 1 - Desvendando APIs e Servidores:
 
-- Conhecer o projeto de blog de fotos;
+ - Conhecer o projeto de blog de fotos;
  - Instalar o Node.js;
  - Aprender o que é um servidor;
  - Criar e subir um servidor;
@@ -33,3 +33,11 @@ Imersão com 5 aulas para mergulhar em desenvolvimento back-end, criar um projet
  - Criar a rota POST/post e POST/upload;
  - Implementar o upload de imagens;
  - Testar a API com thunderClient e Postman.
+
+### Aula 5 - Publicando na Google Cloud: Configuração de API e Integração com Gemini
+
+ - Fazer a lógica de armazenamento de imagens no servidor;
+ - Criar a rota PUT para atualização de post;
+ - Integrar com o Frontend;
+ - Integrar com a API do Gemini;
+ - Fazer o deploy do back-end na Google Cloud.

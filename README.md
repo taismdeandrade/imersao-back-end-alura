@@ -34,7 +34,7 @@ Imersão com 5 aulas para mergulhar em desenvolvimento back-end, criar um projet
  - Implementar o upload de imagens;
  - Testar a API com thunderClient e Postman.
 
-### Aula 5 - Publicando na Google Cloud: Configuração de API e Integração com Gemini
+ #### Aula 5 - Publicando na Google Cloud: Configuração de API e Integração com Gemini
 
  - Fazer a lógica de armazenamento de imagens no servidor;
  - Criar a rota PUT para atualização de post;
